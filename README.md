@@ -1,2 +1,2 @@
-# MATH-257
-Linear algebra
+# MATH257
+Linear Algebra with Computational Applications
