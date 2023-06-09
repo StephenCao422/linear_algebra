@@ -1,0 +1,10 @@
+Ticker,Company Name,Sector
+AAPL,Apple Inc.,Tech
+AMZN,"Amazon.com, Inc.",Tech
+AXP,American Express Company,Finance
+BAC,Bank of America Corporation,Finance
+GOOG,Alphabet Inc.,Tech
+GS,"Goldman Sachs Group, Inc. (The)",Finance
+MS,Morgan Stanley,Finance
+MSFT,Microsoft Corporation,Tech
+Unknown,Unknown,Unknown
